@@ -15,3 +15,6 @@ y listo el proyecto podra correr en tu maquina local con
 ```
 npm run
 ```
+## Licencia 📄
+
+Este proyecto está bajo la Licencia MIT
