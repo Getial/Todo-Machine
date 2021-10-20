@@ -1,5 +1,14 @@
 # Todo-Machine
-_Proyecto del Curso de Introducción a React de Platzi_
+_Proyecto del Curso de Introducción a React de Platzi en el que he aprendido sobre_
+* Definir comportamientos dependiendo de
+  * Eventos
+  * Estado
+  * Efectos
+* Comunicacion entre componentes con React Context
+* Utilizacion de React Hooks
+* Persistencia de datos con Local Storage
+* Creaccion de Portales
+* Entre otras cosas más.
 
 ## Comenzando 🚀
 
