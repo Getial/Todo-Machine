@@ -11,7 +11,7 @@ _Proyecto del Curso de Introducción a React de Platzi en el que he aprendido so
 * Entre otras cosas más.
 
 
-## Puedes realizar la prueba demo [aqui](https://getial.github.io/Todo-Machine/)
+## ✔️ Puedes realizar la prueba demo [aqui](https://getial.github.io/Todo-Machine/)
 
 ## Comenzando 🚀
 
