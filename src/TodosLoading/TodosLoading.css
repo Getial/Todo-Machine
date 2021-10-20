@@ -1,0 +1,58 @@
+.LoadingTodo-container {
+  position: relative;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  width: 90%;
+  height: 60px;
+  margin: 0 10px;
+  margin-bottom: 30px;
+  border-radius: 20px;
+  box-shadow: 5px 5px 10px var(--shadow),
+              -5px -5px 10px var(--light);
+  margin-top: 24px;
+  background: linear-gradient(90deg, var(--light), var(--shadow));
+  background-size: 400% 400%;
+  animation: loadingAnimation 3s ease-in-out infinite;
+}
+/* .loadingTodo-text {
+  font-size: 18px;
+  line-height: 24px;
+  font-weight: 400;
+  width: 80%;
+  padding: 0 10px;
+}
+.LoadingTodo-CompleteIcon,
+.LoadingTodo-deleteIcon {
+  margin-left: 5px;
+  border-radius: 10px;
+  height: 40px;
+  width: 40px;
+}
+.LoadingTodo-CompleteIcon {
+  position: absolute;
+  left: 12px;
+}
+.LoadingTodo-deleteIcon {
+  position: absolute;
+  right: 0;
+}
+.LoadingTodo-container,
+.LoadingTodo-CompleteIcon,
+.LoadingTodo-deleteIcon {
+  background: linear-gradient(90deg, var(--light), var(--shadow));
+  background-size: 400% 400%;
+  animation: loadingAnimation 3s ease-in-out infinite;
+} */
+
+@keyframes loadingAnimation {
+  0% {
+    background-position: 0% 50%;
+  }
+  50% {
+    background-position: 100% 50%;
+  }
+  100% {
+    background-position: 0% 50%;
+  }
+}

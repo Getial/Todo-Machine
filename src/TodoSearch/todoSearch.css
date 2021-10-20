@@ -1,0 +1,28 @@
+.TodoSearch {
+  height: 35px;
+  width: 60%;
+  align-self: center;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  border-radius: 15px;
+  background: var(--background);
+  box-shadow: inset 5px 5px 10px var(--shadow),
+  inset -5px -5px 10px var(--light);
+}
+.TodoSearchInput {
+  height: 100%;
+  margin-left: 10px;
+  background: transparent;
+  outline: none;
+  border: none;
+  color: var(--color);
+}
+
+.iconSearch {
+  width: 25px;
+  height: 25px;
+  margin-right: 10px;
+  stroke: var(--principal);
+  fill: var(--principal);
+}
