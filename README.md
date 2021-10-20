@@ -19,6 +19,8 @@ pero eso no es todo, ahora debes abrir la carpeta raiz del proyecto en git bash 
 nmp install
 ```
 
+## Puedes realizar la prueba demo [aqui](https://getial.github.io/Todo-Machine/)
+
 y listo el proyecto podra correr en tu maquina local con 
 
 ```
