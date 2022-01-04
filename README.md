@@ -10,6 +10,9 @@ _Proyecto del Curso de Introducción a React de Platzi en el que he aprendido so
 * Creaccion de Portales
 * Entre otras cosas más.
 
+
+## ✔️ Puedes realizar la prueba demo [aqui](https://getial.github.io/Todo-Machine/)
+
 ## Comenzando 🚀
 
 _Estas [instrucciones](https://docs.github.com/es/repositories/creating-and-managing-repositories/cloning-a-repository) te permitirán obtener una copia del proyecto en tu máquina local para propósitos de desarrollo y pruebas._
